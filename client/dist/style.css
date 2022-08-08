@@ -1,0 +1,8 @@
+.dragBox {
+  display: flex;
+  justify-content: center;
+  border-style: solid;
+  width: 200px;
+  position: absolute;
+  cursor: pointer;
+}
